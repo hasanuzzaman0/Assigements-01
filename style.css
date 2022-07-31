@@ -5,6 +5,7 @@
 
 .main {
     width: 100%;
+    height: auto;
     overflow: hidden;
     margin: auto;
     background: white;
@@ -275,7 +276,7 @@ body {
     background-color: #fff4d6;
     width: 60%;
     height: 150px;
-    margin-left: 300px;
+    margin: 10px 0px 50px 300px;
 
 }
 
