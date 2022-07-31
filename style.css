@@ -137,7 +137,6 @@ body {
     display: flex;
     padding: 40px 100px 100px 100px;
 
-
 }
 
 .flexible-container-1 img {
@@ -308,7 +307,6 @@ input[type=submit] {
 
 .footer {
     background-color: #0b0d17;
-
     font-style: italic;
     text-align: center;
     height: 120px;
